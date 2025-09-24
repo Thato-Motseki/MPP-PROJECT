@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Agricultural Price Predictor</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f8f9fa;
+      text-align: center;
+      padding: 50px;
+    }
+    .form-container {
+      background: white;
+      padding: 20px;
+      border-radius: 10px;
+      width: 400px;
+      margin: auto;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    }
+    input, select, button {
+      margin: 10px 0;
+      padding: 10px;
+      width: 100%;
+      border-radius: 5px;
+      border: 1px solid #ccc;
+    }
+    button {
+      background: #28a745;
+      color: white;
+      font-weight: bold;
+      cursor: pointer;
+    }
+    button:hover {
+      background: #218838;
+    }
+    .result {
+      margin-top: 20px;
+      font-size: 18px;
+      font-weight: bold;
+      color: #333;
+    }
+  </style>
+</head>
+<body>
+  <div class="form-container">
+    <h2>Agricultural Price Predictor</h2>
+    <form method="POST" action="/predict">
+      <label for="crop">Crop:</label>
+      <select name="crop" required>
+        <option value="maize">Maize</option>
+        <option value="wheat">Wheat</option>
+        <option value="sorghum">Sorghum</option>
+        <option value="tomatoes">Tomatoes</option>
+        <option value="potatoes">Potatoes</option>
+      </select>
+
+      <label for="location">Location:</label>
+      <select name="location" required>
+        <option value="Maseru">Maseru</option>
+        <option value="Leribe">Leribe</option>
+        <option value="Butha-Buthe">Butha-Buthe</option>
+      </select>
+
+      <label for="supply">Supply:</label>
+      <input type="number" name="supply" placeholder="e.g. 600" required>
+
+      <label for="demand">Demand:</label>
+      <input type="number" name="demand" placeholder="e.g. 700" required>
+
+      <label for="input_cost">Input Cost:</label>
+      <input type="number" name="input_cost" placeholder="e.g. 210" required>
+
+      <button type="submit">Predict Price</button>
+    </form>
+
+    {% if prediction_text %}
+      <div class="result">{{ prediction_text }}</div>
+    {% endif %}
+  </div>
+</body>
+</html>
