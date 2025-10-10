@@ -8,7 +8,7 @@ export function TopNavigation() {
       <div className="flex items-center justify-between">
         {/* Left side - Title and breadcrumb */}
         <div>
-          <h1 className="text-2xl font-semibold text-gray-900">Agricultural Market Intelligence</h1>
+          <h1 className="text-2xl font-semibold text-gray-900">Agricultural Market Intelligencecd </h1>
           <div className="flex items-center gap-2 mt-1">
             <span className="text-sm text-gray-500">Dashboard</span>
             <span className="text-gray-300">•</span>

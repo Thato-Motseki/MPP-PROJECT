@@ -1,0 +1,149 @@
+Iso3,StartDate,EndDate,Area Code,Area Code (M49),Area,Item Code,Item Code (CPC),Item,Element Code,Element,Year Code,Year,Months Code,Months,Unit,Value,Flag
+#country+code,#date+start,#date+end,,,#country+name,#indicator+code,,#indicator+name,,,,#date+year,,,#indicator+type,#indicator+value+num,
+LSO,2020-01-01,2020-12-31,122,'426,Lesotho,176,'01701,"Beans, dry",5530,Producer Price (LCU/tonne),2020,2020,7021,Annual value,LCU,20000.000000,A
+LSO,2021-01-01,2021-12-31,122,'426,Lesotho,176,'01701,"Beans, dry",5530,Producer Price (LCU/tonne),2021,2021,7021,Annual value,LCU,19000.000000,A
+LSO,2022-01-01,2022-12-31,122,'426,Lesotho,176,'01701,"Beans, dry",5530,Producer Price (LCU/tonne),2022,2022,7021,Annual value,LCU,21000.000000,A
+LSO,2023-01-01,2023-12-31,122,'426,Lesotho,176,'01701,"Beans, dry",5530,Producer Price (LCU/tonne),2023,2023,7021,Annual value,LCU,5251.000000,A
+LSO,2020-01-01,2020-12-31,122,'426,Lesotho,176,'01701,"Beans, dry",5531,Producer Price (SLC/tonne),2020,2020,7021,Annual value,SLC,20000.000000,A
+LSO,2021-01-01,2021-12-31,122,'426,Lesotho,176,'01701,"Beans, dry",5531,Producer Price (SLC/tonne),2021,2021,7021,Annual value,SLC,19000.000000,A
+LSO,2022-01-01,2022-12-31,122,'426,Lesotho,176,'01701,"Beans, dry",5531,Producer Price (SLC/tonne),2022,2022,7021,Annual value,SLC,21000.000000,A
+LSO,2023-01-01,2023-12-31,122,'426,Lesotho,176,'01701,"Beans, dry",5531,Producer Price (SLC/tonne),2023,2023,7021,Annual value,SLC,5251.000000,A
+LSO,2020-01-01,2020-12-31,122,'426,Lesotho,176,'01701,"Beans, dry",5532,Producer Price (USD/tonne),2020,2020,7021,Annual value,USD,1214.100000,A
+LSO,2021-01-01,2021-12-31,122,'426,Lesotho,176,'01701,"Beans, dry",5532,Producer Price (USD/tonne),2021,2021,7021,Annual value,USD,1285.600000,A
+LSO,2022-01-01,2022-12-31,122,'426,Lesotho,176,'01701,"Beans, dry",5532,Producer Price (USD/tonne),2022,2022,7021,Annual value,USD,1283.900000,A
+LSO,2023-01-01,2023-12-31,122,'426,Lesotho,176,'01701,"Beans, dry",5532,Producer Price (USD/tonne),2023,2023,7021,Annual value,USD,284.600000,A
+LSO,1991-01-01,1991-12-31,122,'426,Lesotho,56,'0112,Maize (corn),5530,Producer Price (LCU/tonne),1991,1991,7021,Annual value,LCU,508.000000,A
+LSO,1992-01-01,1992-12-31,122,'426,Lesotho,56,'0112,Maize (corn),5530,Producer Price (LCU/tonne),1992,1992,7021,Annual value,LCU,597.000000,A
+LSO,1993-01-01,1993-12-31,122,'426,Lesotho,56,'0112,Maize (corn),5530,Producer Price (LCU/tonne),1993,1993,7021,Annual value,LCU,627.000000,A
+LSO,1994-01-01,1994-12-31,122,'426,Lesotho,56,'0112,Maize (corn),5530,Producer Price (LCU/tonne),1994,1994,7021,Annual value,LCU,630.000000,A
+LSO,1995-01-01,1995-12-31,122,'426,Lesotho,56,'0112,Maize (corn),5530,Producer Price (LCU/tonne),1995,1995,7021,Annual value,LCU,739.000000,A
+LSO,1996-01-01,1996-12-31,122,'426,Lesotho,56,'0112,Maize (corn),5530,Producer Price (LCU/tonne),1996,1996,7021,Annual value,LCU,739.000000,A
+LSO,1997-01-01,1997-12-31,122,'426,Lesotho,56,'0112,Maize (corn),5530,Producer Price (LCU/tonne),1997,1997,7021,Annual value,LCU,745.000000,A
+LSO,2020-01-01,2020-12-31,122,'426,Lesotho,56,'0112,Maize (corn),5530,Producer Price (LCU/tonne),2020,2020,7021,Annual value,LCU,3020.000000,A
+LSO,2021-01-01,2021-12-31,122,'426,Lesotho,56,'0112,Maize (corn),5530,Producer Price (LCU/tonne),2021,2021,7021,Annual value,LCU,3290.000000,A
+LSO,2022-01-01,2022-12-31,122,'426,Lesotho,56,'0112,Maize (corn),5530,Producer Price (LCU/tonne),2022,2022,7021,Annual value,LCU,3890.000000,A
+LSO,1991-01-01,1991-12-31,122,'426,Lesotho,56,'0112,Maize (corn),5531,Producer Price (SLC/tonne),1991,1991,7021,Annual value,SLC,508.000000,A
+LSO,1992-01-01,1992-12-31,122,'426,Lesotho,56,'0112,Maize (corn),5531,Producer Price (SLC/tonne),1992,1992,7021,Annual value,SLC,597.000000,A
+LSO,1993-01-01,1993-12-31,122,'426,Lesotho,56,'0112,Maize (corn),5531,Producer Price (SLC/tonne),1993,1993,7021,Annual value,SLC,627.000000,A
+LSO,1994-01-01,1994-12-31,122,'426,Lesotho,56,'0112,Maize (corn),5531,Producer Price (SLC/tonne),1994,1994,7021,Annual value,SLC,630.000000,A
+LSO,1995-01-01,1995-12-31,122,'426,Lesotho,56,'0112,Maize (corn),5531,Producer Price (SLC/tonne),1995,1995,7021,Annual value,SLC,739.000000,A
+LSO,1996-01-01,1996-12-31,122,'426,Lesotho,56,'0112,Maize (corn),5531,Producer Price (SLC/tonne),1996,1996,7021,Annual value,SLC,739.000000,A
+LSO,1997-01-01,1997-12-31,122,'426,Lesotho,56,'0112,Maize (corn),5531,Producer Price (SLC/tonne),1997,1997,7021,Annual value,SLC,745.000000,A
+LSO,2020-01-01,2020-12-31,122,'426,Lesotho,56,'0112,Maize (corn),5531,Producer Price (SLC/tonne),2020,2020,7021,Annual value,SLC,3020.000000,A
+LSO,2021-01-01,2021-12-31,122,'426,Lesotho,56,'0112,Maize (corn),5531,Producer Price (SLC/tonne),2021,2021,7021,Annual value,SLC,3290.000000,A
+LSO,2022-01-01,2022-12-31,122,'426,Lesotho,56,'0112,Maize (corn),5531,Producer Price (SLC/tonne),2022,2022,7021,Annual value,SLC,3890.000000,A
+LSO,1991-01-01,1991-12-31,122,'426,Lesotho,56,'0112,Maize (corn),5532,Producer Price (USD/tonne),1991,1991,7021,Annual value,USD,184.000000,A
+LSO,1992-01-01,1992-12-31,122,'426,Lesotho,56,'0112,Maize (corn),5532,Producer Price (USD/tonne),1992,1992,7021,Annual value,USD,209.300000,A
+LSO,1993-01-01,1993-12-31,122,'426,Lesotho,56,'0112,Maize (corn),5532,Producer Price (USD/tonne),1993,1993,7021,Annual value,USD,191.900000,A
+LSO,1994-01-01,1994-12-31,122,'426,Lesotho,56,'0112,Maize (corn),5532,Producer Price (USD/tonne),1994,1994,7021,Annual value,USD,177.400000,A
+LSO,1995-01-01,1995-12-31,122,'426,Lesotho,56,'0112,Maize (corn),5532,Producer Price (USD/tonne),1995,1995,7021,Annual value,USD,203.700000,A
+LSO,1996-01-01,1996-12-31,122,'426,Lesotho,56,'0112,Maize (corn),5532,Producer Price (USD/tonne),1996,1996,7021,Annual value,USD,171.900000,A
+LSO,1997-01-01,1997-12-31,122,'426,Lesotho,56,'0112,Maize (corn),5532,Producer Price (USD/tonne),1997,1997,7021,Annual value,USD,161.700000,A
+LSO,2020-01-01,2020-12-31,122,'426,Lesotho,56,'0112,Maize (corn),5532,Producer Price (USD/tonne),2020,2020,7021,Annual value,USD,183.300000,A
+LSO,2021-01-01,2021-12-31,122,'426,Lesotho,56,'0112,Maize (corn),5532,Producer Price (USD/tonne),2021,2021,7021,Annual value,USD,222.600000,A
+LSO,2022-01-01,2022-12-31,122,'426,Lesotho,56,'0112,Maize (corn),5532,Producer Price (USD/tonne),2022,2022,7021,Annual value,USD,237.800000,A
+LSO,2021-01-01,2021-12-31,122,'426,Lesotho,619,'01359.90,"Other fruits, n.e.c.",5530,Producer Price (LCU/tonne),2021,2021,7021,Annual value,LCU,11366.700000,A
+LSO,2022-01-01,2022-12-31,122,'426,Lesotho,619,'01359.90,"Other fruits, n.e.c.",5530,Producer Price (LCU/tonne),2022,2022,7021,Annual value,LCU,11933.300000,A
+LSO,2022-01-01,2022-01-31,122,'426,Lesotho,619,'01359.90,"Other fruits, n.e.c.",5530,Producer Price (LCU/tonne),2022,2022,7001,January,LCU,13124.400000,A
+LSO,2022-02-01,2022-02-28,122,'426,Lesotho,619,'01359.90,"Other fruits, n.e.c.",5530,Producer Price (LCU/tonne),2022,2022,7002,February,LCU,13501.700000,A
+LSO,2022-03-01,2022-03-31,122,'426,Lesotho,619,'01359.90,"Other fruits, n.e.c.",5530,Producer Price (LCU/tonne),2022,2022,7003,March,LCU,13993.300000,A
+LSO,2022-04-01,2022-04-30,122,'426,Lesotho,619,'01359.90,"Other fruits, n.e.c.",5530,Producer Price (LCU/tonne),2022,2022,7004,April,LCU,13447.200000,A
+LSO,2022-05-01,2022-05-31,122,'426,Lesotho,619,'01359.90,"Other fruits, n.e.c.",5530,Producer Price (LCU/tonne),2022,2022,7005,May,LCU,10426.100000,A
+LSO,2022-06-01,2022-06-30,122,'426,Lesotho,619,'01359.90,"Other fruits, n.e.c.",5530,Producer Price (LCU/tonne),2022,2022,7006,June,LCU,12256.700000,A
+LSO,2022-07-01,2022-07-31,122,'426,Lesotho,619,'01359.90,"Other fruits, n.e.c.",5530,Producer Price (LCU/tonne),2022,2022,7007,July,LCU,10789.400000,A
+LSO,2022-08-01,2022-08-31,122,'426,Lesotho,619,'01359.90,"Other fruits, n.e.c.",5530,Producer Price (LCU/tonne),2022,2022,7008,August,LCU,8308.900000,A
+LSO,2022-09-01,2022-09-30,122,'426,Lesotho,619,'01359.90,"Other fruits, n.e.c.",5530,Producer Price (LCU/tonne),2022,2022,7009,September,LCU,11550.000000,A
+LSO,2021-01-01,2021-12-31,122,'426,Lesotho,619,'01359.90,"Other fruits, n.e.c.",5531,Producer Price (SLC/tonne),2021,2021,7021,Annual value,SLC,11366.700000,A
+LSO,2022-01-01,2022-12-31,122,'426,Lesotho,619,'01359.90,"Other fruits, n.e.c.",5531,Producer Price (SLC/tonne),2022,2022,7021,Annual value,SLC,11933.300000,A
+LSO,2021-01-01,2021-12-31,122,'426,Lesotho,619,'01359.90,"Other fruits, n.e.c.",5532,Producer Price (USD/tonne),2021,2021,7021,Annual value,USD,769.100000,A
+LSO,2022-01-01,2022-12-31,122,'426,Lesotho,619,'01359.90,"Other fruits, n.e.c.",5532,Producer Price (USD/tonne),2022,2022,7021,Annual value,USD,729.600000,A
+LSO,2021-01-01,2021-12-31,122,'426,Lesotho,463,'01290.90,"Other vegetables, fresh n.e.c.",5530,Producer Price (LCU/tonne),2021,2021,7021,Annual value,LCU,3187.400000,A
+LSO,2022-01-01,2022-12-31,122,'426,Lesotho,463,'01290.90,"Other vegetables, fresh n.e.c.",5530,Producer Price (LCU/tonne),2022,2022,7021,Annual value,LCU,3486.100000,A
+LSO,2022-01-01,2022-01-31,122,'426,Lesotho,463,'01290.90,"Other vegetables, fresh n.e.c.",5530,Producer Price (LCU/tonne),2022,2022,7001,January,LCU,2830.000000,A
+LSO,2022-02-01,2022-02-28,122,'426,Lesotho,463,'01290.90,"Other vegetables, fresh n.e.c.",5530,Producer Price (LCU/tonne),2022,2022,7002,February,LCU,3003.000000,A
+LSO,2022-03-01,2022-03-31,122,'426,Lesotho,463,'01290.90,"Other vegetables, fresh n.e.c.",5530,Producer Price (LCU/tonne),2022,2022,7003,March,LCU,3547.000000,A
+LSO,2022-04-01,2022-04-30,122,'426,Lesotho,463,'01290.90,"Other vegetables, fresh n.e.c.",5530,Producer Price (LCU/tonne),2022,2022,7004,April,LCU,3403.500000,A
+LSO,2022-05-01,2022-05-31,122,'426,Lesotho,463,'01290.90,"Other vegetables, fresh n.e.c.",5530,Producer Price (LCU/tonne),2022,2022,7005,May,LCU,3480.900000,A
+LSO,2022-06-01,2022-06-30,122,'426,Lesotho,463,'01290.90,"Other vegetables, fresh n.e.c.",5530,Producer Price (LCU/tonne),2022,2022,7006,June,LCU,3469.600000,A
+LSO,2022-07-01,2022-07-31,122,'426,Lesotho,463,'01290.90,"Other vegetables, fresh n.e.c.",5530,Producer Price (LCU/tonne),2022,2022,7007,July,LCU,3559.600000,A
+LSO,2022-08-01,2022-08-31,122,'426,Lesotho,463,'01290.90,"Other vegetables, fresh n.e.c.",5530,Producer Price (LCU/tonne),2022,2022,7008,August,LCU,4135.200000,A
+LSO,2022-09-01,2022-09-30,122,'426,Lesotho,463,'01290.90,"Other vegetables, fresh n.e.c.",5530,Producer Price (LCU/tonne),2022,2022,7009,September,LCU,3945.200000,A
+LSO,2021-01-01,2021-12-31,122,'426,Lesotho,463,'01290.90,"Other vegetables, fresh n.e.c.",5531,Producer Price (SLC/tonne),2021,2021,7021,Annual value,SLC,3187.400000,A
+LSO,2022-01-01,2022-12-31,122,'426,Lesotho,463,'01290.90,"Other vegetables, fresh n.e.c.",5531,Producer Price (SLC/tonne),2022,2022,7021,Annual value,SLC,3486.100000,A
+LSO,2021-01-01,2021-12-31,122,'426,Lesotho,463,'01290.90,"Other vegetables, fresh n.e.c.",5532,Producer Price (USD/tonne),2021,2021,7021,Annual value,USD,215.700000,A
+LSO,2022-01-01,2022-12-31,122,'426,Lesotho,463,'01290.90,"Other vegetables, fresh n.e.c.",5532,Producer Price (USD/tonne),2022,2022,7021,Annual value,USD,213.100000,A
+LSO,2023-01-01,2023-12-31,122,'426,Lesotho,187,'01705,"Peas, dry",5530,Producer Price (LCU/tonne),2023,2023,7021,Annual value,LCU,357.000000,A
+LSO,2023-01-01,2023-12-31,122,'426,Lesotho,187,'01705,"Peas, dry",5531,Producer Price (SLC/tonne),2023,2023,7021,Annual value,SLC,357.000000,A
+LSO,2023-01-01,2023-12-31,122,'426,Lesotho,187,'01705,"Peas, dry",5532,Producer Price (USD/tonne),2023,2023,7021,Annual value,USD,19.300000,A
+LSO,2020-01-01,2020-12-31,122,'426,Lesotho,116,'01510,Potatoes,5530,Producer Price (LCU/tonne),2020,2020,7021,Annual value,LCU,8705.000000,A
+LSO,2021-01-01,2021-12-31,122,'426,Lesotho,116,'01510,Potatoes,5530,Producer Price (LCU/tonne),2021,2021,7021,Annual value,LCU,6949.000000,A
+LSO,2022-01-01,2022-12-31,122,'426,Lesotho,116,'01510,Potatoes,5530,Producer Price (LCU/tonne),2022,2022,7021,Annual value,LCU,7566.000000,A
+LSO,2020-01-01,2020-12-31,122,'426,Lesotho,116,'01510,Potatoes,5531,Producer Price (SLC/tonne),2020,2020,7021,Annual value,SLC,8705.000000,A
+LSO,2021-01-01,2021-12-31,122,'426,Lesotho,116,'01510,Potatoes,5531,Producer Price (SLC/tonne),2021,2021,7021,Annual value,SLC,6949.000000,A
+LSO,2022-01-01,2022-12-31,122,'426,Lesotho,116,'01510,Potatoes,5531,Producer Price (SLC/tonne),2022,2022,7021,Annual value,SLC,7566.000000,A
+LSO,2020-01-01,2020-12-31,122,'426,Lesotho,116,'01510,Potatoes,5532,Producer Price (USD/tonne),2020,2020,7021,Annual value,USD,528.400000,A
+LSO,2021-01-01,2021-12-31,122,'426,Lesotho,116,'01510,Potatoes,5532,Producer Price (USD/tonne),2021,2021,7021,Annual value,USD,470.200000,A
+LSO,2022-01-01,2022-12-31,122,'426,Lesotho,116,'01510,Potatoes,5532,Producer Price (USD/tonne),2022,2022,7021,Annual value,USD,462.600000,A
+LSO,1991-01-01,1991-12-31,122,'426,Lesotho,882,'02211,Raw milk of cattle,5530,Producer Price (LCU/tonne),1991,1991,7021,Annual value,LCU,890.000000,A
+LSO,1992-01-01,1992-12-31,122,'426,Lesotho,882,'02211,Raw milk of cattle,5530,Producer Price (LCU/tonne),1992,1992,7021,Annual value,LCU,890.000000,A
+LSO,1993-01-01,1993-12-31,122,'426,Lesotho,882,'02211,Raw milk of cattle,5530,Producer Price (LCU/tonne),1993,1993,7021,Annual value,LCU,890.000000,A
+LSO,1994-01-01,1994-12-31,122,'426,Lesotho,882,'02211,Raw milk of cattle,5530,Producer Price (LCU/tonne),1994,1994,7021,Annual value,LCU,890.000000,A
+LSO,1995-01-01,1995-12-31,122,'426,Lesotho,882,'02211,Raw milk of cattle,5530,Producer Price (LCU/tonne),1995,1995,7021,Annual value,LCU,1000.000000,A
+LSO,1996-01-01,1996-12-31,122,'426,Lesotho,882,'02211,Raw milk of cattle,5530,Producer Price (LCU/tonne),1996,1996,7021,Annual value,LCU,1200.000000,A
+LSO,1997-01-01,1997-12-31,122,'426,Lesotho,882,'02211,Raw milk of cattle,5530,Producer Price (LCU/tonne),1997,1997,7021,Annual value,LCU,1200.000000,A
+LSO,1998-01-01,1998-12-31,122,'426,Lesotho,882,'02211,Raw milk of cattle,5530,Producer Price (LCU/tonne),1998,1998,7021,Annual value,LCU,1240.000000,A
+LSO,2021-01-01,2021-12-31,122,'426,Lesotho,882,'02211,Raw milk of cattle,5530,Producer Price (LCU/tonne),2021,2021,7021,Annual value,LCU,16330.000000,A
+LSO,2022-01-01,2022-12-31,122,'426,Lesotho,882,'02211,Raw milk of cattle,5530,Producer Price (LCU/tonne),2022,2022,7021,Annual value,LCU,17433.300000,A
+LSO,2022-01-01,2022-01-31,122,'426,Lesotho,882,'02211,Raw milk of cattle,5530,Producer Price (LCU/tonne),2022,2022,7001,January,LCU,16973.300000,A
+LSO,2022-02-01,2022-02-28,122,'426,Lesotho,882,'02211,Raw milk of cattle,5530,Producer Price (LCU/tonne),2022,2022,7002,February,LCU,17320.000000,A
+LSO,2022-03-01,2022-03-31,122,'426,Lesotho,882,'02211,Raw milk of cattle,5530,Producer Price (LCU/tonne),2022,2022,7003,March,LCU,17360.000000,A
+LSO,2022-04-01,2022-04-30,122,'426,Lesotho,882,'02211,Raw milk of cattle,5530,Producer Price (LCU/tonne),2022,2022,7004,April,LCU,16753.300000,A
+LSO,2022-05-01,2022-05-31,122,'426,Lesotho,882,'02211,Raw milk of cattle,5530,Producer Price (LCU/tonne),2022,2022,7005,May,LCU,17746.700000,A
+LSO,2022-06-01,2022-06-30,122,'426,Lesotho,882,'02211,Raw milk of cattle,5530,Producer Price (LCU/tonne),2022,2022,7006,June,LCU,16956.700000,A
+LSO,2022-07-01,2022-07-31,122,'426,Lesotho,882,'02211,Raw milk of cattle,5530,Producer Price (LCU/tonne),2022,2022,7007,July,LCU,17340.000000,A
+LSO,2022-08-01,2022-08-31,122,'426,Lesotho,882,'02211,Raw milk of cattle,5530,Producer Price (LCU/tonne),2022,2022,7008,August,LCU,17923.300000,A
+LSO,2022-09-01,2022-09-30,122,'426,Lesotho,882,'02211,Raw milk of cattle,5530,Producer Price (LCU/tonne),2022,2022,7009,September,LCU,18540.000000,A
+LSO,1991-01-01,1991-12-31,122,'426,Lesotho,882,'02211,Raw milk of cattle,5531,Producer Price (SLC/tonne),1991,1991,7021,Annual value,SLC,890.000000,A
+LSO,1992-01-01,1992-12-31,122,'426,Lesotho,882,'02211,Raw milk of cattle,5531,Producer Price (SLC/tonne),1992,1992,7021,Annual value,SLC,890.000000,A
+LSO,1993-01-01,1993-12-31,122,'426,Lesotho,882,'02211,Raw milk of cattle,5531,Producer Price (SLC/tonne),1993,1993,7021,Annual value,SLC,890.000000,A
+LSO,1994-01-01,1994-12-31,122,'426,Lesotho,882,'02211,Raw milk of cattle,5531,Producer Price (SLC/tonne),1994,1994,7021,Annual value,SLC,890.000000,A
+LSO,1995-01-01,1995-12-31,122,'426,Lesotho,882,'02211,Raw milk of cattle,5531,Producer Price (SLC/tonne),1995,1995,7021,Annual value,SLC,1000.000000,A
+LSO,1996-01-01,1996-12-31,122,'426,Lesotho,882,'02211,Raw milk of cattle,5531,Producer Price (SLC/tonne),1996,1996,7021,Annual value,SLC,1200.000000,A
+LSO,1997-01-01,1997-12-31,122,'426,Lesotho,882,'02211,Raw milk of cattle,5531,Producer Price (SLC/tonne),1997,1997,7021,Annual value,SLC,1200.000000,A
+LSO,1998-01-01,1998-12-31,122,'426,Lesotho,882,'02211,Raw milk of cattle,5531,Producer Price (SLC/tonne),1998,1998,7021,Annual value,SLC,1240.000000,A
+LSO,2021-01-01,2021-12-31,122,'426,Lesotho,882,'02211,Raw milk of cattle,5531,Producer Price (SLC/tonne),2021,2021,7021,Annual value,SLC,16330.000000,A
+LSO,2022-01-01,2022-12-31,122,'426,Lesotho,882,'02211,Raw milk of cattle,5531,Producer Price (SLC/tonne),2022,2022,7021,Annual value,SLC,17433.300000,A
+LSO,1991-01-01,1991-12-31,122,'426,Lesotho,882,'02211,Raw milk of cattle,5532,Producer Price (USD/tonne),1991,1991,7021,Annual value,USD,322.300000,A
+LSO,1992-01-01,1992-12-31,122,'426,Lesotho,882,'02211,Raw milk of cattle,5532,Producer Price (USD/tonne),1992,1992,7021,Annual value,USD,312.100000,A
+LSO,1993-01-01,1993-12-31,122,'426,Lesotho,882,'02211,Raw milk of cattle,5532,Producer Price (USD/tonne),1993,1993,7021,Annual value,USD,272.400000,A
+LSO,1994-01-01,1994-12-31,122,'426,Lesotho,882,'02211,Raw milk of cattle,5532,Producer Price (USD/tonne),1994,1994,7021,Annual value,USD,250.600000,A
+LSO,1995-01-01,1995-12-31,122,'426,Lesotho,882,'02211,Raw milk of cattle,5532,Producer Price (USD/tonne),1995,1995,7021,Annual value,USD,275.700000,A
+LSO,1996-01-01,1996-12-31,122,'426,Lesotho,882,'02211,Raw milk of cattle,5532,Producer Price (USD/tonne),1996,1996,7021,Annual value,USD,279.100000,A
+LSO,1997-01-01,1997-12-31,122,'426,Lesotho,882,'02211,Raw milk of cattle,5532,Producer Price (USD/tonne),1997,1997,7021,Annual value,USD,260.400000,A
+LSO,1998-01-01,1998-12-31,122,'426,Lesotho,882,'02211,Raw milk of cattle,5532,Producer Price (USD/tonne),1998,1998,7021,Annual value,USD,224.300000,A
+LSO,2021-01-01,2021-12-31,122,'426,Lesotho,882,'02211,Raw milk of cattle,5532,Producer Price (USD/tonne),2021,2021,7021,Annual value,USD,1105.000000,A
+LSO,2022-01-01,2022-12-31,122,'426,Lesotho,882,'02211,Raw milk of cattle,5532,Producer Price (USD/tonne),2022,2022,7021,Annual value,USD,1065.900000,A
+LSO,2020-01-01,2020-12-31,122,'426,Lesotho,83,'0114,Sorghum,5530,Producer Price (LCU/tonne),2020,2020,7021,Annual value,LCU,2650.000000,A
+LSO,2021-01-01,2021-12-31,122,'426,Lesotho,83,'0114,Sorghum,5530,Producer Price (LCU/tonne),2021,2021,7021,Annual value,LCU,3950.000000,A
+LSO,2022-01-01,2022-12-31,122,'426,Lesotho,83,'0114,Sorghum,5530,Producer Price (LCU/tonne),2022,2022,7021,Annual value,LCU,6048.900000,I
+LSO,2023-01-01,2023-12-31,122,'426,Lesotho,83,'0114,Sorghum,5530,Producer Price (LCU/tonne),2023,2023,7021,Annual value,LCU,9088.000000,A
+LSO,2020-01-01,2020-12-31,122,'426,Lesotho,83,'0114,Sorghum,5531,Producer Price (SLC/tonne),2020,2020,7021,Annual value,SLC,2650.000000,A
+LSO,2021-01-01,2021-12-31,122,'426,Lesotho,83,'0114,Sorghum,5531,Producer Price (SLC/tonne),2021,2021,7021,Annual value,SLC,3950.000000,A
+LSO,2022-01-01,2022-12-31,122,'426,Lesotho,83,'0114,Sorghum,5531,Producer Price (SLC/tonne),2022,2022,7021,Annual value,SLC,6048.900000,I
+LSO,2023-01-01,2023-12-31,122,'426,Lesotho,83,'0114,Sorghum,5531,Producer Price (SLC/tonne),2023,2023,7021,Annual value,SLC,9088.000000,A
+LSO,2020-01-01,2020-12-31,122,'426,Lesotho,83,'0114,Sorghum,5532,Producer Price (USD/tonne),2020,2020,7021,Annual value,USD,160.900000,A
+LSO,2021-01-01,2021-12-31,122,'426,Lesotho,83,'0114,Sorghum,5532,Producer Price (USD/tonne),2021,2021,7021,Annual value,USD,267.300000,A
+LSO,2022-01-01,2022-12-31,122,'426,Lesotho,83,'0114,Sorghum,5532,Producer Price (USD/tonne),2022,2022,7021,Annual value,USD,369.800000,I
+LSO,2023-01-01,2023-12-31,122,'426,Lesotho,83,'0114,Sorghum,5532,Producer Price (USD/tonne),2023,2023,7021,Annual value,USD,492.600000,A
+LSO,2020-01-01,2020-12-31,122,'426,Lesotho,15,'0111,Wheat,5530,Producer Price (LCU/tonne),2020,2020,7021,Annual value,LCU,5210.000000,A
+LSO,2021-01-01,2021-12-31,122,'426,Lesotho,15,'0111,Wheat,5530,Producer Price (LCU/tonne),2021,2021,7021,Annual value,LCU,5840.000000,A
+LSO,2022-01-01,2022-12-31,122,'426,Lesotho,15,'0111,Wheat,5530,Producer Price (LCU/tonne),2022,2022,7021,Annual value,LCU,6340.000000,A
+LSO,2023-01-01,2023-12-31,122,'426,Lesotho,15,'0111,Wheat,5530,Producer Price (LCU/tonne),2023,2023,7021,Annual value,LCU,6366.000000,A
+LSO,2020-01-01,2020-12-31,122,'426,Lesotho,15,'0111,Wheat,5531,Producer Price (SLC/tonne),2020,2020,7021,Annual value,SLC,5210.000000,A
+LSO,2021-01-01,2021-12-31,122,'426,Lesotho,15,'0111,Wheat,5531,Producer Price (SLC/tonne),2021,2021,7021,Annual value,SLC,5840.000000,A
+LSO,2022-01-01,2022-12-31,122,'426,Lesotho,15,'0111,Wheat,5531,Producer Price (SLC/tonne),2022,2022,7021,Annual value,SLC,6340.000000,A
+LSO,2023-01-01,2023-12-31,122,'426,Lesotho,15,'0111,Wheat,5531,Producer Price (SLC/tonne),2023,2023,7021,Annual value,SLC,6366.000000,A
+LSO,2020-01-01,2020-12-31,122,'426,Lesotho,15,'0111,Wheat,5532,Producer Price (USD/tonne),2020,2020,7021,Annual value,USD,316.300000,A
+LSO,2021-01-01,2021-12-31,122,'426,Lesotho,15,'0111,Wheat,5532,Producer Price (USD/tonne),2021,2021,7021,Annual value,USD,395.200000,A
+LSO,2022-01-01,2022-12-31,122,'426,Lesotho,15,'0111,Wheat,5532,Producer Price (USD/tonne),2022,2022,7021,Annual value,USD,387.600000,A
+LSO,2023-01-01,2023-12-31,122,'426,Lesotho,15,'0111,Wheat,5532,Producer Price (USD/tonne),2023,2023,7021,Annual value,USD,345.000000,A
