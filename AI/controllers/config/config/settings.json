@@ -1,0 +1,108 @@
+{
+  "app": {
+    "name": "SmartMarket Lesotho",
+    "version": "1.0.0",
+    "description": "Agricultural Market Price Predictor Platform",
+    "baseUrl": "http://localhost:5000"
+  },
+
+  "server": {
+    "port": 5000,
+    "environment": "development",
+    "corsOrigins": ["http://localhost:3000", "http://127.0.0.1:3000"]
+  },
+
+  "database": {
+    "mongodb": {
+      "uri": "mongodb://localhost:27017/smartmarket",
+      "options": {
+        "useNewUrlParser": true,
+        "useUnifiedTopology": true
+      }
+    }
+  },
+
+  "authentication": {
+    "jwt": {
+      "secret": "smartmarket_lesotho_jwt_secret_2024",
+      "expiresIn": "24h",
+      "algorithm": "HS256"
+    },
+    "password": {
+      "saltRounds": 10,
+      "minLength": 6
+    }
+  },
+
+  "languages": {
+    "default": "en",
+    "supported": ["en", "st"],
+    "fallback": "en"
+  },
+
+  "regions": {
+    "districts": [
+      "Maseru",
+      "Leribe",
+      "Berea",
+      "Mafeteng",
+      "Mohale's Hoek",
+      "Quthing",
+      "Qacha's Nek",
+      "Butha-Buthe",
+      "Thaba-Tseka",
+      "Mokhotlong"
+    ],
+    "markets": [
+      "Maseru Central Market",
+      "Leribe Main Market",
+      "Berea Market",
+      "Mafeteng Market",
+      "Mohale's Hoek Market",
+      "Quthing Market"
+    ]
+  },
+
+  "commodities": {
+    "crops": [
+      "maize",
+      "wheat",
+      "sorghum",
+      "beans",
+      "potatoes",
+      "tomatoes",
+      "cabbage",
+      "onions",
+      "carrots",
+      "spinach",
+      "lettuce",
+      "peas"
+    ],
+    "livestock": [
+      "chicken",
+      "beef",
+      "mutton",
+      "pork",
+      "eggs",
+      "milk",
+      "goat meat"
+    ],
+    "units": [
+      "kg",
+      "50kg bag",
+      "100kg bag",
+      "dozen",
+      "each",
+      "liter",
+      "50kg sack"
+    ]
+  },
+
+  "ml": {
+    "apiUrl": "http://localhost:8000/api",
+    "prediction": {
+      "maxDays": 30,
+      "defaultDays": 7
+    }
+  }
+}
